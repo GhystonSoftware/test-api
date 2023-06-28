@@ -1,0 +1,9 @@
+{
+    "posts": [
+      { "id": 1, "title": "How to get good at programming", "author": "ghyston" }
+    ],
+    "comments": [
+      { "id": 1, "body": "This was a great article", "postId": 1 }
+    ],
+    "profile": { "name": "ghyston" }
+  }
